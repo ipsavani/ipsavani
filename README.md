@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pranshu Savani, currently pursuing masters in machine learning at Stevens Institute of Technology.
 - 👀 I like solving complex problems revolving around data and machine learning algorithms.
-- 🌱 I’m currently researching and experimenting on deep neural networks and autoencoders!
+- 🌱 I’m currently researching and experimenting on deep neural networks and autoencoders @ P.R.O.O.F Lab stevens!
 - 💞️ I’m looking to collaborate with other developers for winning Hackathons and Open Source contributions.
 - ⚡ Fun fact: I love video games and also play the guitar.
 <br/><br/><br/>
