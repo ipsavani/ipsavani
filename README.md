@@ -6,4 +6,4 @@
 <br/><br/><br/>
 <a href="https://www.linkedin.com/in/psav/"> <img src="https://github.com/ipsavani/social-icons/blob/master/PNG/Black/LinkedIN_black.png" width="30"/></a>
 <a href="https://www.github.com/ipsavani/"> <img src="https://github.com/ipsavani/social-icons/blob/master/PNG/Black/Github_black.png" width="30"/></a>
-[<img src="https://github.com/ipsavani/social-icons/blob/master/PNG/Black/Gmail_black.png" width="30"/>](mailto:psavani@stevens.edu?subject=[GitHub]%20Source%20P%20Sav)
+[<img src="https://github.com/ipsavani/social-icons/blob/master/PNG/Black/Gmail_black.png" width="30"/>](mailto:psavani@stevens.edu)
