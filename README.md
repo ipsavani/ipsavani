@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pranshu Savani, I have a masters in machine learning at Stevens Institute of Technology.
+- 👋 Hi, I’m Pranshu Savani, I'm a Machine Learning Engineer with a masters in machine learning/computer science.
 - 👀 I like solving complex problems revolving around data and machine learning algorithms.
 - 🌱 I’m currently researching and experimenting on deep neural networks and autoencoders @ P.R.O.O.F Lab/ Mintex Tech Inc!
 - 💞️ I’m looking to collaborate with other developers for winning Hackathons and Open Source contributions.
